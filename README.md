@@ -1,6 +1,7 @@
 # employeeManagementSystem
 
-This is a CMS application for viewing, editing, and adding company details stored in an employees_db MySQL database. The video demonstartion is https://youtu.be/QqZc6XtTViQ
+This is a CMS application for viewing, editing, and adding company details stored in an employees_db MySQL database. The video demonstartion is https://youtu.be/7xR14omQGR8
+
 
 ## Table of Contents
 * [Installation](#installation)
